@@ -52,7 +52,6 @@ background-color: rgb(255, 255, 240);
         <h1 id="titulo">Jad Martins de Lima</h1>
         <figure>
             ![Exemplo](figs/perfil.jpg)
-            <img class="fig"src="figs/perfil.jpg" alt="Imagem de menina com roupas larnja olhando para o notebook" width="80" height="80">
             <figcaption>
              Imagem de perfil
             </figcaption>
