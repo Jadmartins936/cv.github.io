@@ -40,15 +40,18 @@ a:hover{
 h3{
     text-decoration: underline;
 }
+body{
+background-color: rgb(255, 255, 240);
+}
     </style>
 
 
 </head>
-<body style="background-color: rgb(255, 255, 240);">
+<body>
     <header>
         <h1 id="titulo">Jad Martins de Lima</h1>
         <figure>
-            ![Exemplo](main/figs/perfil.jpg)
+            ![Exemplo](figs/perfil.jpg)
             <img class="fig"src="figs/perfil.jpg" alt="Imagem de menina com roupas larnja olhando para o notebook" width="80" height="80">
             <figcaption>
              Imagem de perfil
