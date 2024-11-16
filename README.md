@@ -40,10 +40,8 @@ a:hover{
 h3{
     text-decoration: underline;
 }
-body{
-background-color: rgb(255, 255, 240);
-}
-    </style>
+
+</style>
 
 
 </head>
@@ -51,7 +49,7 @@ background-color: rgb(255, 255, 240);
     <header>
         <h1 id="titulo">Jad Martins de Lima</h1>
         <figure>
-            ![Exemplo](figs/perfil.jpg)
+               <img class="fig"src="figs/perfil.jpg" alt="Imagem de menina com roupas larnja olhando para o notebook" width="80" height="80">
             <figcaption>
              Imagem de perfil
             </figcaption>
@@ -82,7 +80,7 @@ background-color: rgb(255, 255, 240);
         <p>Seus principais interesses são Arte, inovação, jogos digitais e esportes</p>
 <section>
 <h3>ODS que desejo contribuir</h3>
-<img src="figs/SDG-11.svg" alt="ODS referente a ccidades e comunidades sustentáveis" width="140" height="140">
+<img src="figs/SDG-11.svg" alt="ODS referente a cidades e comunidades sustentáveis" width="140" height="140">
 <img src="figs/SDG-3.svg" alt="ODS referente a saúde e bem-estar" width="140" height="140">
 </section>        
 <h3>Habilidades</h3>
