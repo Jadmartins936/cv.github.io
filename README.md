@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -22,7 +21,7 @@
         <h1 id="titulo">Jad Martins de Lima</h1>
         <figure>
             
-            <img class="fig"src="figs/perfil.jpg" alt="Imagem de menina com roupas larnja olhando para o notebook" width="80" height="80">
+           (figs/perfil.jpg)
             <figcaption>
              Imagem de perfil
             </figcaption>
