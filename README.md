@@ -1,3 +1,4 @@
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -13,6 +14,34 @@
     <link rel="stylesheet" href="estilo/estilo.css">
     <!--Link Font-->
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <style>
+        *{
+    margin: 10px;
+   
+}#titulo, h2{
+    color: rgb(243, 81, 7);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fig{
+    border-radius: 50%;
+
+}
+p{
+    
+    font-family: "Crimson Text", serif;
+    font-weight: 600;
+    font-size: large;
+}
+figcaption{
+    font-style:oblique;
+}
+a:hover{
+    color: chocolate;
+}
+h3{
+    text-decoration: underline;
+}
+    </style>
 
 
 </head>
@@ -21,7 +50,7 @@
         <h1 id="titulo">Jad Martins de Lima</h1>
         <figure>
             
-           (figs/perfil.jpg)
+            <img class="fig"src="figs/perfil.jpg" alt="Imagem de menina com roupas larnja olhando para o notebook" width="80" height="80">
             <figcaption>
              Imagem de perfil
             </figcaption>
