@@ -1,4 +1,3 @@
-
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -18,7 +17,8 @@
         *{
     margin: 10px;
    
-}#titulo, h2{
+}
+#titulo, h2{
     color: rgb(243, 81, 7);
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -49,7 +49,7 @@ h3{
     <header>
         <h1 id="titulo">Jad Martins de Lima</h1>
         <figure>
-            
+            ![Exemplo](figs/perfil.jpg)
             <img class="fig"src="figs/perfil.jpg" alt="Imagem de menina com roupas larnja olhando para o notebook" width="80" height="80">
             <figcaption>
              Imagem de perfil
