@@ -1,14 +1,14 @@
-# **Currículo**
+#  <div align="center"> Currículo - Jad Martins de Lima </div>
+<div align="center">
+    <figure>
+        <img src="figs/perfil.jpg" alt="Imagem de menina com roupas laranja olhando para o notebook" width="200" height="200" alt="Imagem de perfil">
+    </figure>
+</div>
 
-<h1>Jad Martins de Lima</h1>
+# <div align="center"> Resumo </div>
+Estudante de Tecnologia em **Análise e Desenvolvimento de Sistemas** na **Universidade Tecnológica Federal do Paraná (UTFPR).** Técnica em Informática para Internet pela Etec Pedro D'Arcádia Neto. Participou de cursos de **inglês, redação, informática básica e avançada e edição de vídeo** pelo CEDET em parceria com a Fema, de 2017 a 2023. 
 
-<figure>
-    <img class="fig" src="figs/perfil.jpg" alt="Imagem de menina com roupas laranja olhando para o notebook" width="80" height="80" alt="Imagem de perfil">
-</figure>
-
-## Resumo
-<p>Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná (UTFPR). Técnica em Informática para Internet pela Etec Pedro D'Arcádia Neto. Participou de cursos de inglês, redação, informática básica e avançada e edição de vídeo pelo CEDET em parceria com a Fema, de 2017 a 2023.</p>
-<p>Seus principais interesses são arte, inovação, jogos digitais e esportes.</p>
+Seus principais interesses são **arte, inovação, jogos digitais e esportes.**
 
 ### ODS que desejo contribuir
 <section>
@@ -16,41 +16,48 @@
     <img src="figs/SDG-3.svg" alt="ODS referente a saúde e bem-estar" width="140" height="140">
 </section>        
 
-## Contatos
+# <div align="center"> Contatos </div>
 <ul>
     <li><b>Email:</b> <a href="mailto:jadmartins936@gmail.com">jadmartins936@gmail.com</a></li>
-    <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jad-martins-ab2b75218">Perfil no LinkedIn</a></li>
+    <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/jad-martins-ab2b75218">Jad Martins</a></li>
     <li><b>Localização:</b> Cornélio Procópio, Paraná</li>
 </ul>
 
-## Habilidades
-<ol>
-    <li>Design UX/UI</li>
-    <li>Pintura em tela</li>
-    <li>Programação Front-end com HTML, CSS e Javascript</li>
-    <li>Lógica de programação</li>
-</ol>
+# <div align="center"> Habilidades </div>
+1. **Design UX/UI**  
+   Criação de interfaces intuitivas e experiências de usuário otimizadas para diferentes plataformas.
 
-## Educação
-<section>
-    <p><b>Graduação:</b> Análise de Sistemas (em andamento)</p>
-    <p><b>Instituição:</b> UTFPR</p>
-    <p><b>Período:</b> 2024-2027</p>
-</section>
-<section>
-    <p><b>Curso Técnico:</b> Informática para Internet</p>
-    <p><b>Instituição:</b> Pedro D'Arcádia Neto</p>
-    <p><b>Período:</b> 2021-2023</p>
-</section>
+2. **Pintura em tela**  
+   Desenvolvimento de obras de arte utilizando técnicas de pintura em tela, explorando criatividade e expressão artística.
 
-## Hobbies
-<ul>
-    <li>Pintura em tela</li>
-    <li>Desenho à mão</li>
-    <li>Vídeo games</li>
-</ul>
+3. **Programação Front-end com HTML, CSS e JavaScript**  
+   Desenvolvimento de interfaces web responsivas e dinâmicas, utilizando as principais tecnologias do front-end.
 
-## Links Adicionais
+4. **Lógica de programação**  
+   Aplicação de conceitos fundamentais para resolução de problemas e desenvolvimento de algoritmos eficientes.
+
+
+# <div align="center"> Educação </div>
+### Graduação: Análise de Sistemas (em andamento)
+
+Instituição: UTFPR
+
+Período: 2024-2027
+
+### Curso Técnico: Informática para Internet
+
+Instituição: Pedro D'Arcádia Neto
+
+Período: 2021-2023
+
+# <div align="center"> Hobbies </div>
++  **Pintura em tela**
+
++  **Desenho à mão**
+
++  **Vídeo games**
+
+## <div align="center"> Links Adicionais </div>
 <ul>
     <li><a href="https://github.com/Jadmartins936?tab=repositories">Perfil no Github</a></li>
 </ul>
