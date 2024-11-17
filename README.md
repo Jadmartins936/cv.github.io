@@ -1,4 +1,4 @@
-# Currículo - Jad Martins de Lima
+# Currículo
 
 <h1>Jad Martins de Lima</h1>
 
