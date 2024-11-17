@@ -1,4 +1,4 @@
-# Currículo
+# **Currículo**
 
 <h1>Jad Martins de Lima</h1>
 
