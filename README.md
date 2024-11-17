@@ -8,13 +8,11 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=work" />
     <!--Link icone Endereço-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=location_on" />
-    <title>Currículo</title>
     <!--Link css-->
     <link rel="stylesheet" href="estilo/estilo.css">
     <!--Link Font-->
     <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 </head>
-</style>
 <body>
     <header>
         <h1 id="titulo">Jad Martins de Lima</h1>
