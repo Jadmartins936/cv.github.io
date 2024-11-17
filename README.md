@@ -10,6 +10,12 @@
 <p>Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Tecnológica Federal do Paraná (UTFPR). Técnica em Informática para Internet pela Etec Pedro D'Arcádia Neto. Participou de cursos de inglês, redação, informática básica e avançada e edição de vídeo pelo CEDET em parceria com a Fema, de 2017 a 2023.</p>
 <p>Seus principais interesses são arte, inovação, jogos digitais e esportes.</p>
 
+### ODS que desejo contribuir
+<section>
+    <img src="figs/SDG-11.svg" alt="ODS referente a cidades e comunidades sustentáveis" width="140" height="140">
+    <img src="figs/SDG-3.svg" alt="ODS referente a saúde e bem-estar" width="140" height="140">
+</section>        
+
 ## Contatos
 <ul>
     <li><b>Email:</b> <a href="mailto:jadmartins936@gmail.com">jadmartins936@gmail.com</a></li>
