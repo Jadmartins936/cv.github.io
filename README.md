@@ -1,11 +1,11 @@
-#  <div align="center"> Currículo - Jad Martins de Lima </div>
+  <div align="center"> Currículo - Jad Martins de Lima </div>
 <div align="center">
     <figure>
         <img src="figs/perfil.jpg" alt="Imagem de menina com roupas laranja olhando para o notebook" width="200" height="200" alt="Imagem de perfil">
     </figure>
 </div>
 
-# <div align="center"> Resumo </div>
+ <div align="center"> Resumo </div>
 Estudante de Tecnologia em **Análise e Desenvolvimento de Sistemas** na **Universidade Tecnológica Federal do Paraná (UTFPR).** Técnica em Informática para Internet pela Etec Pedro D'Arcádia Neto. Participou de cursos de **inglês, redação, informática básica e avançada e edição de vídeo** pelo CEDET em parceria com a Fema, de 2017 a 2023. 
 
 Seus principais interesses são **arte, inovação, jogos digitais e esportes.**
