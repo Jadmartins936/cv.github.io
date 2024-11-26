@@ -1,6 +1,6 @@
  Currículo - Jad Martins de Lima 
 
-    <figure>
+   <figure>
         <img src="figs/perfil.jpg" alt="Imagem de menina com roupas laranja olhando para o notebook" width="200" height="200" alt="Imagem de perfil">
     </figure>
 
